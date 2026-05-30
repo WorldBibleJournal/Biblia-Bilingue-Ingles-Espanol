@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://worldbiblejournal.github.io/Biblia-Bilingue-Ingles-Espanol/sitemap.xml
+
