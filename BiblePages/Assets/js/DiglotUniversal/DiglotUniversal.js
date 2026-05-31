@@ -853,45 +853,45 @@ class DiglotMenuIndex extends HTMLElement {
   </span></div>
 
 <div class="books" id="divOLDbg">
-           <a href="../OldTestament/01-genesis.html"><div class="BMONTgenesis divgenesis"><span class="english englishLabel">Genesis</span><br/><span class="tagalogleft tagalogLabel">Génesis</span></div></a>
-            <a href="../OldTestament/02-exodus.html"><div class="BMONTexodus divexodus"><span class="english englishLabel">Exodus</span><br/><span class="tagalogleft tagalogLabel">Éxodo</span></div></a>
-            <a href="../OldTestament/03-leviticus.html"><div class="BMONTleviticus divleviticus"><span class="english englishLabel">Leviticus</span><br/><span class="tagalogleft tagalogLabel">Levítico</span></div></a>
-            <a href="../OldTestament/04-numbers.html"><div class="BMONTnumbers divnumbers"><span class="english englishLabel">Numbers</span><br/><span class="tagalogleft tagalogLabel">Números</span></div></a>
-            <a href="../OldTestament/05-deuteronomy.html"><div class="BMONTdeuteronomy divdeuteronomy"><span class="english englishLabel">Deuteronomy</span><br/><span class="tagalogleft tagalogLabel">Deuteronomio</span></div></a>
-            <a href="../OldTestament/06-joshua.html"><div class="BMONTjoshua divjoshua"><span class="english englishLabel">Joshua</span><br/><span class="tagalogleft tagalogLabel">Josué</span></div></a>
-            <a href="../OldTestament/07-judges.html"><div class="BMONTjudges divjudges"><span class="english englishLabel">Judges</span><br/><span class="tagalogleft tagalogLabel">Jueces</span></div></a>
-            <a href="../OldTestament/08-ruth.html"><div class="BMONTruth divruth"><span class="english englishLabel">Ruth</span><br/><span class="tagalogleft tagalogLabel">Rut</span></div></a>
-            <a href="../OldTestament/09-1st-samuel.html"><div class="BMONT1samuel div1samuel"><span class="english englishLabel">1 Samuel</span><br/><span class="tagalogleft tagalogLabel">1 Samuel</span></div></a>
-            <a href="../OldTestament/10-2nd-samuel.html"><div class="BMONT2samuel div2samuel"><span class="english englishLabel">2 Samuel</span><br/><span class="tagalogleft tagalogLabel">2 Samuel</span></div></a>
-            <a href="../OldTestament/11-1st-kings.html"><div class="BMONT1kings div1kings"><span class="english englishLabel">1 Kings</span><br/><span class="tagalogleft tagalogLabel">1 Reyes</span></div></a>
-            <a href="../OldTestament/12-2nd-kings.html"><div class="BMONT2kings div2kings"><span class="english englishLabel">2 Kings</span><br/><span class="tagalogleft tagalogLabel">2 Reyes</span></div></a>
-            <a href="../OldTestament/13-1st-chronicles.html"><div class="BMONT1chronicles div1chronicles"><span class="english englishLabel">1 Chronicles</span><br/><span class="tagalogleft tagalogLabel">1 Crónicas</span></div></a>
-            <a href="../OldTestament/14-2nd-chronicles.html"><div class="BMONT2chronicles div2chronicles"><span class="english englishLabel">2 Chronicles</span><br/><span class="tagalogleft tagalogLabel">2 Crónicas</span></div></a>
-            <a href="../OldTestament/15-ezra.html"><div class="BMONTezra divezra"><span class="english englishLabel">Ezra</span><br/><span class="tagalogleft tagalogLabel">Esdras</span></div></a>
-            <a href="../OldTestament/16-nehemiah.html"><div class="BMONTnehemiah divnehemiah"><span class="english englishLabel">Nehemiah</span><br/><span class="tagalogleft tagalogLabel">Nehemías</span></div></a>
-            <a href="../OldTestament/17-esther.html"><div class="BMONTesther divesther"><span class="english englishLabel">Esther</span><br/><span class="tagalogleft tagalogLabel">Ester</span></div></a>
-            <a href="../OldTestament/18-job.html"><div class="BMONTjob divjob"><span class="english englishLabel">Job</span><br/><span class="tagalogleft tagalogLabel">Job</span></div></a>
-            <a href="../OldTestament/19-psalms.html"><div class="BMONTpsalms divpsalms"><span class="english englishLabel">Psalms</span><br/><span class="tagalogleft tagalogLabel">Salmos</span></div></a>
-            <a href="../OldTestament/20-proverbs.html"><div class="BMONTproverbs divproverbs"><span class="english englishLabel">Proverbs</span><br/><span class="tagalogleft tagalogLabel">Proverbios</span></div></a>
-            <a href="../OldTestament/21-ecclesiastes.html"><div class="BMONTecclesiastes divecclesiastes"><span class="english englishLabel">Ecclesiastes</span><br/><span class="tagalogleft tagalogLabel">Eclesiastés</span></div></a>
-            <a href="../OldTestament/22-song-of-solomon.html"><div class="BMONTsongofsolomon divsongofsolomon"><span class="english englishLabel">Song of Solomon</span><br/><span class="tagalogleft tagalogLabel">Cantar de los Cantares</span></div></a>
-            <a href="../OldTestament/23-isaiah.html"><div class="BMONTisaiah divisaiah"><span class="english englishLabel">Isaiah</span><br/><span class="tagalogleft tagalogLabel">Isaías</span></div></a>
-            <a href="../OldTestament/24-jeremiah.html"><div class="BMONTjeremiah divjeremiah"><span class="english englishLabel">Jeremiah</span><br/><span class="tagalogleft tagalogLabel">Jeremías</span></div></a>
-            <a href="../OldTestament/25-lamentations.html"><div class="BMONTlamentations divlamentations"><span class="english englishLabel">Lamentations</span><br/><span class="tagalogleft tagalogLabel">Lamentaciones</span></div></a>
-            <a href="../OldTestament/26-ezekiel.html"><div class="BMONTezekiel divezekiel"><span class="english englishLabel">Ezekiel</span><br/><span class="tagalogleft tagalogLabel">Ezequiel</span></div></a>
-            <a href="../OldTestament/27-daniel.html"><div class="BMONTdaniel divdaniel"><span class="english englishLabel">Daniel</span><br/><span class="tagalogleft tagalogLabel">Daniel</span></div></a>
-            <a href="../OldTestament/28-hosea.html"><div class="BMONThosea divhosea"><span class="english englishLabel">Hosea</span><br/><span class="tagalogleft tagalogLabel">Oseas</span></div></a>
-            <a href="../OldTestament/29-joel.html"><div class="BMONTjoel divjoel"><span class="english englishLabel">Joel</span><br/><span class="tagalogleft tagalogLabel">Joel</span></div></a>
-            <a href="../OldTestament/30-amos.html"><div class="BMONTamos divamos"><span class="english englishLabel">Amos</span><br/><span class="tagalogleft tagalogLabel">Amós</span></div></a>
-            <a href="../OldTestament/31-obadiah.html"><div class="BMONTobadiah divobadiah"><span class="english englishLabel">Obadiah</span><br/><span class="tagalogleft tagalogLabel">Abdías</span></div></a>
-            <a href="../OldTestament/32-jonah.html"><div class="BMONTjonah divjonah"><span class="english englishLabel">Jonah</span><br/><span class="tagalogleft tagalogLabel">Jonás</span></div></a>
-            <a href="../OldTestament/33-micah.html"><div class="BMONTmicah divmicah"><span class="english englishLabel">Micah</span><br/><span class="tagalogleft tagalogLabel">Miqueas</span></div></a>
-            <a href="../OldTestament/34-nahum.html"><div class="BMONTnahum divnahum"><span class="english englishLabel">Nahum</span><br/><span class="tagalogleft tagalogLabel">Nahúm</span></div></a>
-            <a href="../OldTestament/35-habakkuk.html"><div class="BMONThabakkuk divhabakkuk"><span class="english englishLabel">Habakkuk</span><br/><span class="tagalogleft tagalogLabel">Habacuc</span></div></a>
-            <a href="../OldTestament/36-zephaniah.html"><div class="BMONTzephaniah divzephaniah"><span class="english englishLabel">Zephaniah</span><br/><span class="tagalogleft tagalogLabel">Sofonías</span></div></a>
-            <a href="../OldTestament/37-haggai.html"><div class="BMONThaggai divhaggai"><span class="english englishLabel">Haggai</span><br/><span class="tagalogleft tagalogLabel">Hageo</span></div></a>
-            <a href="../OldTestament/38-zechariah.html"><div class="BMONTzechariah divzechariah"><span class="english englishLabel">Zechariah</span><br/><span class="tagalogleft tagalogLabel">Zacarías</span></div></a>
-            <a href="../OldTestament/39-malachi.html"><div class="BMONTmalachi divmalachi"><span class="english englishLabel">Malachi</span><br/><span class="tagalogleft tagalogLabel">Malaquías</span></div></a>
+           <a href="BiblePages/OldTestament/01-genesis.html"><div class="BMONTgenesis divgenesis"><span class="english englishLabel">Genesis</span><br/><span class="tagalogleft tagalogLabel">Génesis</span></div></a>
+            <a href="BiblePages/OldTestament/02-exodus.html"><div class="BMONTexodus divexodus"><span class="english englishLabel">Exodus</span><br/><span class="tagalogleft tagalogLabel">Éxodo</span></div></a>
+            <a href="BiblePages/OldTestament/03-leviticus.html"><div class="BMONTleviticus divleviticus"><span class="english englishLabel">Leviticus</span><br/><span class="tagalogleft tagalogLabel">Levítico</span></div></a>
+            <a href="BiblePages/OldTestament/04-numbers.html"><div class="BMONTnumbers divnumbers"><span class="english englishLabel">Numbers</span><br/><span class="tagalogleft tagalogLabel">Números</span></div></a>
+            <a href="BiblePages/OldTestament/05-deuteronomy.html"><div class="BMONTdeuteronomy divdeuteronomy"><span class="english englishLabel">Deuteronomy</span><br/><span class="tagalogleft tagalogLabel">Deuteronomio</span></div></a>
+            <a href="BiblePages/OldTestament/06-joshua.html"><div class="BMONTjoshua divjoshua"><span class="english englishLabel">Joshua</span><br/><span class="tagalogleft tagalogLabel">Josué</span></div></a>
+            <a href="BiblePages/OldTestament/07-judges.html"><div class="BMONTjudges divjudges"><span class="english englishLabel">Judges</span><br/><span class="tagalogleft tagalogLabel">Jueces</span></div></a>
+            <a href="BiblePages/OldTestament/08-ruth.html"><div class="BMONTruth divruth"><span class="english englishLabel">Ruth</span><br/><span class="tagalogleft tagalogLabel">Rut</span></div></a>
+            <a href="BiblePages/OldTestament/09-1st-samuel.html"><div class="BMONT1samuel div1samuel"><span class="english englishLabel">1 Samuel</span><br/><span class="tagalogleft tagalogLabel">1 Samuel</span></div></a>
+            <a href="BiblePages/OldTestament/10-2nd-samuel.html"><div class="BMONT2samuel div2samuel"><span class="english englishLabel">2 Samuel</span><br/><span class="tagalogleft tagalogLabel">2 Samuel</span></div></a>
+            <a href="BiblePages/OldTestament/11-1st-kings.html"><div class="BMONT1kings div1kings"><span class="english englishLabel">1 Kings</span><br/><span class="tagalogleft tagalogLabel">1 Reyes</span></div></a>
+            <a href="BiblePages/OldTestament/12-2nd-kings.html"><div class="BMONT2kings div2kings"><span class="english englishLabel">2 Kings</span><br/><span class="tagalogleft tagalogLabel">2 Reyes</span></div></a>
+            <a href="BiblePages/OldTestament/13-1st-chronicles.html"><div class="BMONT1chronicles div1chronicles"><span class="english englishLabel">1 Chronicles</span><br/><span class="tagalogleft tagalogLabel">1 Crónicas</span></div></a>
+            <a href="BiblePages/OldTestament/14-2nd-chronicles.html"><div class="BMONT2chronicles div2chronicles"><span class="english englishLabel">2 Chronicles</span><br/><span class="tagalogleft tagalogLabel">2 Crónicas</span></div></a>
+            <a href="BiblePages/OldTestament/15-ezra.html"><div class="BMONTezra divezra"><span class="english englishLabel">Ezra</span><br/><span class="tagalogleft tagalogLabel">Esdras</span></div></a>
+            <a href="BiblePages/OldTestament/16-nehemiah.html"><div class="BMONTnehemiah divnehemiah"><span class="english englishLabel">Nehemiah</span><br/><span class="tagalogleft tagalogLabel">Nehemías</span></div></a>
+            <a href="BiblePages/OldTestament/17-esther.html"><div class="BMONTesther divesther"><span class="english englishLabel">Esther</span><br/><span class="tagalogleft tagalogLabel">Ester</span></div></a>
+            <a href="BiblePages/OldTestament/18-job.html"><div class="BMONTjob divjob"><span class="english englishLabel">Job</span><br/><span class="tagalogleft tagalogLabel">Job</span></div></a>
+            <a href="BiblePages/OldTestament/19-psalms.html"><div class="BMONTpsalms divpsalms"><span class="english englishLabel">Psalms</span><br/><span class="tagalogleft tagalogLabel">Salmos</span></div></a>
+            <a href="BiblePages/OldTestament/20-proverbs.html"><div class="BMONTproverbs divproverbs"><span class="english englishLabel">Proverbs</span><br/><span class="tagalogleft tagalogLabel">Proverbios</span></div></a>
+            <a href="BiblePages/OldTestament/21-ecclesiastes.html"><div class="BMONTecclesiastes divecclesiastes"><span class="english englishLabel">Ecclesiastes</span><br/><span class="tagalogleft tagalogLabel">Eclesiastés</span></div></a>
+            <a href="BiblePages/OldTestament/22-song-of-solomon.html"><div class="BMONTsongofsolomon divsongofsolomon"><span class="english englishLabel">Song of Solomon</span><br/><span class="tagalogleft tagalogLabel">Cantar de los Cantares</span></div></a>
+            <a href="BiblePages/OldTestament/23-isaiah.html"><div class="BMONTisaiah divisaiah"><span class="english englishLabel">Isaiah</span><br/><span class="tagalogleft tagalogLabel">Isaías</span></div></a>
+            <a href="BiblePages/OldTestament/24-jeremiah.html"><div class="BMONTjeremiah divjeremiah"><span class="english englishLabel">Jeremiah</span><br/><span class="tagalogleft tagalogLabel">Jeremías</span></div></a>
+            <a href="BiblePages/OldTestament/25-lamentations.html"><div class="BMONTlamentations divlamentations"><span class="english englishLabel">Lamentations</span><br/><span class="tagalogleft tagalogLabel">Lamentaciones</span></div></a>
+            <a href="BiblePages/OldTestament/26-ezekiel.html"><div class="BMONTezekiel divezekiel"><span class="english englishLabel">Ezekiel</span><br/><span class="tagalogleft tagalogLabel">Ezequiel</span></div></a>
+            <a href="BiblePages/OldTestament/27-daniel.html"><div class="BMONTdaniel divdaniel"><span class="english englishLabel">Daniel</span><br/><span class="tagalogleft tagalogLabel">Daniel</span></div></a>
+            <a href="BiblePages/OldTestament/28-hosea.html"><div class="BMONThosea divhosea"><span class="english englishLabel">Hosea</span><br/><span class="tagalogleft tagalogLabel">Oseas</span></div></a>
+            <a href="BiblePages/OldTestament/29-joel.html"><div class="BMONTjoel divjoel"><span class="english englishLabel">Joel</span><br/><span class="tagalogleft tagalogLabel">Joel</span></div></a>
+            <a href="BiblePages/OldTestament/30-amos.html"><div class="BMONTamos divamos"><span class="english englishLabel">Amos</span><br/><span class="tagalogleft tagalogLabel">Amós</span></div></a>
+            <a href="BiblePages/OldTestament/31-obadiah.html"><div class="BMONTobadiah divobadiah"><span class="english englishLabel">Obadiah</span><br/><span class="tagalogleft tagalogLabel">Abdías</span></div></a>
+            <a href="BiblePages/OldTestament/32-jonah.html"><div class="BMONTjonah divjonah"><span class="english englishLabel">Jonah</span><br/><span class="tagalogleft tagalogLabel">Jonás</span></div></a>
+            <a href="BiblePages/OldTestament/33-micah.html"><div class="BMONTmicah divmicah"><span class="english englishLabel">Micah</span><br/><span class="tagalogleft tagalogLabel">Miqueas</span></div></a>
+            <a href="BiblePages/OldTestament/34-nahum.html"><div class="BMONTnahum divnahum"><span class="english englishLabel">Nahum</span><br/><span class="tagalogleft tagalogLabel">Nahúm</span></div></a>
+            <a href="BiblePages/OldTestament/35-habakkuk.html"><div class="BMONThabakkuk divhabakkuk"><span class="english englishLabel">Habakkuk</span><br/><span class="tagalogleft tagalogLabel">Habacuc</span></div></a>
+            <a href="BiblePages/OldTestament/36-zephaniah.html"><div class="BMONTzephaniah divzephaniah"><span class="english englishLabel">Zephaniah</span><br/><span class="tagalogleft tagalogLabel">Sofonías</span></div></a>
+            <a href="BiblePages/OldTestament/37-haggai.html"><div class="BMONThaggai divhaggai"><span class="english englishLabel">Haggai</span><br/><span class="tagalogleft tagalogLabel">Hageo</span></div></a>
+            <a href="BiblePages/OldTestament/38-zechariah.html"><div class="BMONTzechariah divzechariah"><span class="english englishLabel">Zechariah</span><br/><span class="tagalogleft tagalogLabel">Zacarías</span></div></a>
+            <a href="BiblePages/OldTestament/39-malachi.html"><div class="BMONTmalachi divmalachi"><span class="english englishLabel">Malachi</span><br/><span class="tagalogleft tagalogLabel">Malaquías</span></div></a>
       
 
 </div>
