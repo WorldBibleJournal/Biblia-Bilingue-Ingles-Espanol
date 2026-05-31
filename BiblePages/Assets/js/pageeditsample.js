@@ -10,7 +10,7 @@ class SampleBible extends HTMLElement {
                            </tr>
                            <tr class="verse" id="verse-16">
                               <td class="tdenglishbible">
-                                 <span class="verse spanenglishbible">
+                                 <span class="verse spanenglishbible" lang="en">
                                     <span class="verseNo verseNoEnglishBible"> 16 </span> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
                                  </span>
                               </td>
@@ -24,7 +24,7 @@ class SampleBible extends HTMLElement {
                            </tr>
                            <tr class="verse" id="verse-17">
                               <td class="tdenglishbible">
-                                 <span class="verse spanenglishbible">
+                                 <span class="verse spanenglishbible" lang="en">
                                     <span class="verseNo verseNoEnglishBible"> 17 </span> For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
                                  </span>
                               </td>
@@ -38,7 +38,7 @@ class SampleBible extends HTMLElement {
                            </tr>
                            <tr class="verse" id="verse-18">
                               <td class="tdenglishbible">
-                                 <span class="verse spanenglishbible">
+                                 <span class="verse spanenglishbible" lang="en">
                                     <span class="verseNo verseNoEnglishBible"> 18 </span> He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.
                                  </span>
                               </td>

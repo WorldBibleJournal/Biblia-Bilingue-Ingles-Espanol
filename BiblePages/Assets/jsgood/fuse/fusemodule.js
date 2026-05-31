@@ -132,7 +132,7 @@ function setupSearchBox() {
               </tr>
               <tr id="verse-${item.v}" class="verse">
                 <td class="tdenglishbible">
-                  <span class="verse spanenglishbible">
+                  <span class="verse spanenglishbible" lang="en">
                     <span class="verseNo verseNoEnglishBible">${item.v}</span>
                     ${displayEng}
                   </span>

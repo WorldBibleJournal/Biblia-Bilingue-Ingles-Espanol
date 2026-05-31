@@ -497,7 +497,7 @@ class DiglotThumbMenu extends HTMLElement {
                                   </tr>
                                   <tr class="verse" id="">
                                       <td class="tdenglishbible">
-                                        <span class="verse spanenglishbible">
+                                        <span class="verse spanenglishbible" lang="en">
                                         <span class="verseNo verseNoEnglishBible"> 16 </span> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
                                         </span>
                                       </td>
@@ -531,7 +531,7 @@ class DiglotThumbMenu extends HTMLElement {
                                   </tr>
                                   <tr class="verse" id="">
                                       <td class="tdenglishbible">
-                                        <span class="verse spanenglishbible">
+                                        <span class="verse spanenglishbible" lang="en">
                                         <span class="verseNo verseNoEnglishBible"> 16 </span> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
                                         </span>
                                       </td>
@@ -585,7 +585,7 @@ class DiglotThumbMenu extends HTMLElement {
                                   </tr>
                                   <tr class="verse" id="">
                                       <td class="tdenglishbible">
-                                        <span class="verse spanenglishbible">
+                                        <span class="verse spanenglishbible" lang="en">
                                         <span class="verseNo verseNoEnglishBible"> 16 </span> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
                                         </span>
                                       </td>
