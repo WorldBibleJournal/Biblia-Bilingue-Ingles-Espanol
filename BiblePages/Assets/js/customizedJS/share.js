@@ -73,7 +73,7 @@ function renderShareButtons() {
   const staticUrl = encodeURIComponent(shareLink);
 
   // ✅ Static button: Book + Chapter
-  const staticText = `Read (${bookData.tlBook}) ${bookData.engBook} ${bookData.chapter}`;
+  const staticText = `Leer (${bookData.tlBook}) ${bookData.engBook} ${bookData.chapter}`;
   const staticTwitterText = encodeForTwitter(staticText);
   const staticBtn = `
 
@@ -100,7 +100,7 @@ const dynamicTwitterText = encodeForTwitter(dynamicText);
          <div class="iconholder"><img class="svgmedia" src="../Assets/images/facebookogimage/myfacebookshare.svg"></div>
 
       <div class="socialmessage">
-         The Link to this verse can be shared:<br/>
+       El enlace a este versículo puede ser compartido:<br/>
    (${item.tlBook}) ${item.engBook} ${item.verse} 
 
      </div>
@@ -120,7 +120,7 @@ const dynamicTwitterText = encodeForTwitter(dynamicText);
       <div class="iconholder switch1order"><img class="svgmedia" src="../Assets/images/facebookogimage/mytwittershare.svg"></div>
 
       <div class="socialmessage switch2order">
-    The Link to this verse can be tweeted:<br/>
+    El enlace a este versículo puede ser tuiteado:<br/>
 
      (${item.tlBook}) ${item.engBook} ${item.verse}
 
@@ -214,8 +214,8 @@ function refreshHeaderDisplay() {
   updateOgTag("og:title", document.title);
 
   const newDescription = rawInput
-    ? `Read Online Bible @WorldBibleJournal — ${originalTitle} ${rawInput}`
-    : `Read Online Bible @WorldBibleJournal`;
+    ? `Leer en Línea la Biblia @WorldBibleJournal — ${originalTitle} ${rawInput}`
+    : `Leer en Línea la Biblia @WorldBibleJournal`;
 
   updateOgTag("og:description", newDescription);
 
